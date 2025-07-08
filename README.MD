@@ -60,16 +60,16 @@ During training:
 
 **Training reward trend:**
 reward plots and learning curves of cart pole
-![Reward Plot](BEST_RES\curve_res.png)
+![Reward Plot](BEST_RES/curve_res.png)
 reward plots and learning curves of luna lander
-![Reward Plot](BEST_RES\luna_res.jpg)
+![Reward Plot](BEST_RES/luna_res.jpg)
 **Evaluation video sample:**
 
 > (Save as `eval_final.mp4` in `mp4_files/`)
 
 ---
 
-## 🔧 Configurable Hyperparameters
+##  Configurable Hyperparameters
 
 All main hyperparameters are defined at the top of the script:
 
